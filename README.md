@@ -1,8 +1,7 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Adrianw 👋
 
-## Gatinho em Pixel Art
 
-![Gatinho em Pixel Art]([https://link-para-o-seu-gif.com/gatinho.gif](https://images.app.goo.gl/S8TKK1zoUnEjb5Cw8)) <!-- Substitua pelo link real do seu GIF -->
+![Gatinho em Pixel Art]([[https://link-para-o-seu-gif.com/gatinho.gif](https://images.app.goo.gl/S8TKK1zoUnEjb5Cw8)](https://i.gifer.com/VDhk.gif)) <!-- Substitua pelo link real do seu GIF -->
 
 ## Sobre mim
 
