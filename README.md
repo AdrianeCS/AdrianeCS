@@ -1,6 +1,8 @@
 # Olá, eu sou [Seu Nome] 👋
 
-![Seu Nome]([https://via.placeholder.com/150](https://tenor.com/pt-PT/view/cute-cat-white-gif-25424939)) <!-- gif de gato -->
+## Gatinho em Pixel Art
+
+![Gatinho em Pixel Art]([https://link-para-o-seu-gif.com/gatinho.gif](https://images.app.goo.gl/S8TKK1zoUnEjb5Cw8)) <!-- Substitua pelo link real do seu GIF -->
 
 ## Sobre mim
 
