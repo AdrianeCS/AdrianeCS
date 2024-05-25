@@ -1,8 +1,6 @@
-# Olá, eu sou Adriane<video width="100" height="80" controls>
-  <source src="https://i.gifer.com/VDhk.mp4" type="video/mp4">
+# Olá, eu sou Adriane <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Polar%20Bear.png" alt="urso" width="100" height="80">
 
 </video>
-
 ## Sobre mim
 
 - 🌱 Atualmente estou aprendendo **BIG DATA, ANALISE DE DADOS,PYTHON E POWER BI**
