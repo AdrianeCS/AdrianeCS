@@ -25,12 +25,15 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### [Projeto 1](link-para-o-projeto)
 ![Projeto 1](https://via.placeholder.com/400x200) <!-- Substitua pela URL da imagem do seu projeto -->
+
 Breve descrição do projeto.
 
 ### [Projeto 2](link-para-o-projeto)
 ![Projeto 2](https://via.placeholder.com/400x200) <!-- Substitua pela URL da imagem do seu projeto -->
+
 Breve descrição do projeto.
 
 
