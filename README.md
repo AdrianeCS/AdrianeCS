@@ -1,15 +1,13 @@
-# Olá, eu sou Adriane 👋
+# Olá, eu sou [Seu Nome] 👋
 
-
+![Seu Nome](https://via.placeholder.com/150) <!-- Substitua pela URL da sua imagem de perfil -->
 
 ## Sobre mim
 
 - 🌱 Atualmente estou aprendendo **[Tecnologia/Assunto]**
 - 👯 Estou procurando colaborar em **[Projetos/Comunidades]**
 - 💬 Pergunte-me sobre **[Assuntos de Interesse]**
-- 📫 Como me encontrar: [seu.email@exemplo.com](adrianedacosta21@gmail.com)
-
-  ![https://github-readme-stats.vercel.app/api?username=AdrianeCS
+- 📫 Como me encontrar: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
 
 ## Projetos em destaque
 
@@ -32,12 +30,11 @@ Breve descrição do projeto.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AdrianeCS&show_icons=true&theme=radical)
 
 ## Troféus do GitHub
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=AdrianeCS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Conecte-se comigo
 
