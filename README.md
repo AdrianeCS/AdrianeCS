@@ -1,4 +1,7 @@
-# Olá, eu sou Adriane <img src="<iframe src="[https://gifer.com/embed/VDhk" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"](https://i.gifer.com/VDhk.mp4)"> alt="urso" width="100" height="80">
+# Olá, eu sou Adriane<video width="100" height="80" controls>
+  <source src="https://i.gifer.com/VDhk.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
 
 ## Sobre mim
 
