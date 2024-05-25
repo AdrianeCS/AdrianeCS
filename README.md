@@ -8,6 +8,7 @@
 - 👯 Estou procurando colaborar em **[Projetos/Comunidades]**
 - 💬 Pergunte-me sobre **[Assuntos de Interesse]**
 - 📫 Como me encontrar: [seu.email@exemplo.com](adrianedacosta21@gmail.com)
+
   ![https://github-readme-stats.vercel.app/api?username=AdrianeCS
 
 ## Projetos em destaque
