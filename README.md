@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 🌱 Atualmente estou aprendendo **BIG DATA, ANALISE DE DADOS E PYTHON**
+- 🌱 Atualmente estou aprendendo **BIG DATA, ANALISE DE DADOS,PYTHON E POWER BI**
 - ☕ **Analista de dados, cientista de dados e big data**
 - 💬 Pergunte-me sobre **tecnologia**
 
