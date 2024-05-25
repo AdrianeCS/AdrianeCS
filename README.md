@@ -1,6 +1,6 @@
 # Olá, eu sou Adriane<video width="100" height="80" controls>
   <source src="https://i.gifer.com/VDhk.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
+
 </video>
 
 ## Sobre mim
