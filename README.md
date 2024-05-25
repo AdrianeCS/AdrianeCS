@@ -1,13 +1,18 @@
 # Olá, eu sou [Seu Nome] 👋
 
-![Seu Nome](https://via.placeholder.com/150) <!-- Substitua pela URL da sua imagem de perfil -->
+![Seu Nome]([https://via.placeholder.com/150](https://tenor.com/pt-PT/view/cute-cat-white-gif-25424939)) <!-- gif de gato -->
 
 ## Sobre mim
 
-- 🌱 Atualmente estou aprendendo **[Tecnologia/Assunto]**
-- 👯 Estou procurando colaborar em **[Projetos/Comunidades]**
-- 💬 Pergunte-me sobre **[Assuntos de Interesse]**
-- 📫 Como me encontrar: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- 🌱 Atualmente estou aprendendo **BIG DATA, ANALISE DE DADOS E PYTHON**
+- ☕ **Analista de dados, cientista de dados e big data**
+- 💬 Pergunte-me sobre **tecnologia**
+
+## Conecte-se comigo
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adrianedacosta21@mail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([link-para-seu-linkedin](https://www.linkedin.com/in/adriane-da-costa-576289267/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link-para-seu-twitter)
 
 ## Projetos em destaque
 
@@ -32,15 +37,8 @@ Breve descrição do projeto.
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AdrianeCS&show_icons=true&theme=radical)
 
-## Troféus do GitHub
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=AdrianeCS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Conecte-se comigo
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](link-para-seu-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link-para-seu-twitter)
 
 
 
