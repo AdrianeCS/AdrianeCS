@@ -1,4 +1,4 @@
-# Olá, eu sou Adriane <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="100" height="100" />
+# Olá, eu sou Adriane <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="150" height="150" />
 
 </video>
 ## Sobre mim
