@@ -1,6 +1,7 @@
 # Olá, eu sou Adriane 👋
 
 
+
 ## Sobre mim
 
 - 🌱 Atualmente estou aprendendo **[Tecnologia/Assunto]**
@@ -32,9 +33,15 @@ Breve descrição do projeto.
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
+## Troféus do GitHub
+
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](link-para-seu-linkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link-para-seu-twitter)
+
+
 
 
