@@ -1,4 +1,4 @@
-# Olá, eu sou Adriane 👋
+# Olá, eu sou Adriane <img src="[https://hermes.dio.me/articles/cover/38943709-e1e3-492c-8ede-6b06f0f083d7.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Polar%20Bear.png)" alt="Pokedex" width="4" height="2">
 
 ## Sobre mim
 
