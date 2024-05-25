@@ -29,7 +29,6 @@
 
 
 ### [Projeto 1: Pokedex](https://adrianecs.github.io/Pokedex/)
-<img src="https://hermes.dio.me/articles/cover/38943709-e1e3-492c-8ede-6b06f0f083d7.png" alt="Pokedex" width="400" height="200">
 Pokedex feito com API.
 
 
