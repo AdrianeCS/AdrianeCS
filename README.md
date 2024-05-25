@@ -27,15 +27,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### [Projeto 1](adrianecs.github.io/form-cadastro/](https://adrianecs.github.io/Pokedex/))
-![Projeto 1](https://hermes.dio.me/articles/cover/38943709-e1e3-492c-8ede-6b06f0f083d7.png)
-) <!-- Substitua pela URL da imagem do seu projeto -->
+![Projeto 1](https://hermes.dio.me/articles/cover/38943709-e1e3-492c-8ede-6b06f0f083d7.png/400x200)
 
-Breve descrição do projeto.
 
-### [Projeto 2](link-para-o-projeto)
-![Projeto 2](https://via.placeholder.com/400x200) <!-- Substitua pela URL da imagem do seu projeto -->
-
-Breve descrição do projeto.
 ![Gatinho em Pixel Art](https://camo.githubusercontent.com/ce26eeddc72e80f3706363df1eedfdeb81905fe41fd9933e4299464ab13faebb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d384630443837266865696768743d3132302673656374696f6e3d666f6f746572)
 
 
