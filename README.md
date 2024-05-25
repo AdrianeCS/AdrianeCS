@@ -1,7 +1,4 @@
-# Olá, eu sou Adrianw 👋
-
-
-![Gatinho em Pixel Art]([[https://link-para-o-seu-gif.com/gatinho.gif](https://images.app.goo.gl/S8TKK1zoUnEjb5Cw8)](https://i.gifer.com/VDhk.gif)) <!-- Substitua pelo link real do seu GIF -->
+# Olá, eu sou Adriane 👋
 
 ## Sobre mim
 
@@ -11,10 +8,13 @@
 
 ## Conecte-se comigo
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adrianedacosta21@mail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adrianedacosta21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([link-para-seu-linkedin](https://www.linkedin.com/in/adriane-da-costa-576289267/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link-para-seu-twitter)
 
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AdrianeCS&show_icons=true&theme=radical)
 ## Projetos em destaque
 
 ### [Projeto 1](link-para-o-projeto)
