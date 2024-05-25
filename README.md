@@ -1,6 +1,5 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Adriane👋
 
-![Seu Nome](https://via.placeholder.com/150) <!-- Substitua pela URL da sua imagem de perfil -->
 
 ## Sobre mim
 
