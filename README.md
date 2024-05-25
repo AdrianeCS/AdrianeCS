@@ -26,8 +26,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### [Projeto 1][(adrianecs.github.io/form-cadastro/](https://adrianecs.github.io/Pokedex/))
-![Projeto 1](![image](https://github.com/AdrianeCS/AdrianeCS/assets/100001116/4f9ac2f5-bf41-4f75-b8f8-29fa9894fefe)
+### [Projeto 1](adrianecs.github.io/form-cadastro/](https://adrianecs.github.io/Pokedex/))
+![Projeto 1](https://hermes.dio.me/articles/cover/38943709-e1e3-492c-8ede-6b06f0f083d7.png)
 ) <!-- Substitua pela URL da imagem do seu projeto -->
 
 Breve descrição do projeto.
