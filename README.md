@@ -28,8 +28,9 @@
 
 
 ### [Projeto 1: Pokedex](https://adrianecs.github.io/Pokedex/)
-![Pokedex](https://hermes.dio.me/articles/cover/38943709-e1e3-492c-8ede-6b06f0f083d7.png)
+<img src="https://hermes.dio.me/articles/cover/38943709-e1e3-492c-8ede-6b06f0f083d7.png" alt="Pokedex" width="400" height="200">
 Breve descrição do projeto.
+
 
 ![Gatinho em Pixel Art](https://camo.githubusercontent.com/ce26eeddc72e80f3706363df1eedfdeb81905fe41fd9933e4299464ab13faebb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d384630443837266865696768743d3132302673656374696f6e3d666f6f746572)
 
