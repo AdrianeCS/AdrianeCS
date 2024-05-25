@@ -1,4 +1,4 @@
-# Olá, eu sou Adriane <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Polar%20Bear.png" alt="urso" width="" 80height="60">
+# Olá, eu sou Adriane <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Polar%20Bear.png" alt="urso" width="80" height="60">
 
 ## Sobre mim
 
