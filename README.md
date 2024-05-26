@@ -1,4 +1,4 @@
-# Olá, eu sou Adriane<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="100" height="100" />
+## Olá, eu sou Adriane<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="100" height="100" />
 
 </video>
 ## Sobre mim
@@ -16,7 +16,6 @@
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AdrianeCS&show_icons=true&theme=radical)
-## Projetos em destaque
 
 ## Tecnologias e Ferramentas
 
@@ -27,6 +26,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## Projetos em destaque
 
 ### [Projeto 1: Pokedex](https://adrianecs.github.io/Pokedex/)
 Pokedex feito com API.
